@@ -3,7 +3,6 @@ name: Sync to Codeberg Pages
 on:
   push:
     branches:
-      - pages
       - main
 
 jobs:
